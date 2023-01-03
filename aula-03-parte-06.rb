@@ -1,12 +1,10 @@
 count = 1
 
+# iteracao com loop
 loop do
     puts count
 
-    # break if count == 25
-    if count == 25
-        break
-    end
+    break if count == 25
 
     count += 1
 end

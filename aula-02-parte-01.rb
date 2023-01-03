@@ -14,12 +14,10 @@ hash = {
 # saber o tipo da variavel
 puts int.class
 
-# saída de dados
+# acesso aos dados
 puts array[1]
 puts hash[:third]
 
 # operacoes matematicas
 puts 3 % 2
-test = int + array[0]
-puts test
 puts 4 ** 2

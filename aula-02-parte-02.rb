@@ -1,3 +1,4 @@
+# entrada de dados
 print 'Digite seu nome: '
 name = gets.chomp
 
@@ -6,6 +7,7 @@ lastName = gets.chomp
 
 puts "Seu nome é #{name} #{lastName}"
 
+# entrada de inteiros
 print "Digite o primeiro valor: "
 firstValue = gets.chomp.to_i
 

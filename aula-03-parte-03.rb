@@ -1,6 +1,7 @@
 puts 'Digite o número do mês em que você nasceu:'
 month = gets.chomp.to_i
 
+# condicional com case
 case month
     when 1..3
         puts 'Você nasceu no começo do ano'

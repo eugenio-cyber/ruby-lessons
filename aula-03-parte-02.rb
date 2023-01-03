@@ -1,6 +1,6 @@
 product_status = 'closed'
 
-# you can use unless or if not
+# vc pode usar unless ou if not
 unless product_status == 'open'
     check_change = 'can'
 else

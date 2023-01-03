@@ -1,3 +1,4 @@
+# iteracoes com collections
 names = ['Wesley', 'Dinho', 'Arthur']
 aulas = {'aula 01' => 'liberada', 'aula 02' => 'paga', 'aula 03' => 'em breve'}
 

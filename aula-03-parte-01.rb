@@ -1,5 +1,6 @@
 day = 'Monday'
 
+# condicional com if
 if day == 'Sunday'
     lunch = 'especial'
 elsif day == 'Holiday'
